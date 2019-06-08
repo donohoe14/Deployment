@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-This could be a login page.
+This could be a login page if you like it.
 </body>
 </html>
